@@ -1,2 +1,1 @@
-MD: markdown 版本的笔记
-PDF: pdf 版本的笔记
+笔记主要以 markdown 形式呈现 
